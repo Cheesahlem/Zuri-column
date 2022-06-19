@@ -27,7 +27,7 @@ main div {
 .grid1 {
 	background-color: darkblue;
 	grid-area: a;
-	height: 20vh;
+	height: 10vh;
 }
 
 .grid2 {
